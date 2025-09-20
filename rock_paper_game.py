@@ -82,6 +82,3 @@ elif user_choice>computer_choice:
 elif user_choice==user_choice:
     print("its draw")
 
-
-
- 
